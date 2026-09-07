@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi There 👋
 
-<!--
-**Payalsatinge27/Payalsatinge27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Payal Satinge**, a Data Analyst with experience in SQL Server, T-SQL, SSIS, and ETL development and also hands-on experience in Power BI.
 
-Here are some ideas to get you started:
+- Skilled in **SQL Server, SSIS, Power BI, DAX, Power Query, Excel, and ETL**
+- Experienced in **data cleaning, transformation, validation, reporting, and dashboard development**
+- Strong knowledge of **SQL query optimization, stored procedures, data modeling, and ETL automation**
+- Interested in turning raw data into **meaningful insights and business-driven dashboards**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+**Data Analytics:** SQL, Excel, Power BI, DAX, Power Query
+**Database:** SQL Server, T-SQL, Stored Procedures, Views, Indexes
+**ETL:** SSIS, Data Extraction, Transformation & Loading
+**Visualization:** Power BI Dashboards, KPIs, Interactive Reports
