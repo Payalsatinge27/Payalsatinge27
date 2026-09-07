@@ -9,7 +9,7 @@ I am **Payal Satinge**, a Data Analyst with experience in SQL Server, T-SQL, SSI
 
 ### 🛠️ Skills
 
-**Data Analytics:** SQL, Excel, Power BI, DAX, Power Query
-**Database:** SQL Server, T-SQL, Stored Procedures, Views, Indexes
-**ETL:** SSIS, Data Extraction, Transformation & Loading
-**Visualization:** Power BI Dashboards, KPIs, Interactive Reports
+- **Data Analytics:** SQL, Excel, Power BI, DAX, Power Query
+- **Database:** SQL Server, T-SQL, Stored Procedures, Views, Indexes
+- **ETL:** SSIS, Data Extraction, Transformation & Loading
+- **Visualization:** Power BI Dashboards, KPIs, Interactive Reports
