@@ -1,6 +1,6 @@
 # Hi There 👋
 
-I am **Payal Satinge**, a Data Analyst with experience in SQL Server, T-SQL, SSIS, and ETL development and also hands-on experience in Power BI.
+I am **Payal Satinge**, a Data Analyst with 4+ years of experience in SQL Server, T-SQL, SSIS, and ETL development and along with 1 year of hands-on experience in Power BI.
 
 - Skilled in **SQL Server, SSIS, Power BI, DAX, Power Query, Excel, and ETL**
 - Experienced in **data cleaning, transformation, validation, reporting, and dashboard development**
